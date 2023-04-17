@@ -35,4 +35,29 @@ table {
 .rowblue{
     background-color: rgb(79, 173, 228);
   }
+ h3{
+    color: rgb(117, 116, 116, 0.73);
+ }
 
+ .monitor{
+    color: white;
+    background-image: url(img/monitor.jpg);
+    width: 200px;
+    height: 150px;
+    margin-bottom: 10px;
+   background-size: cover;
+ } 
+
+ h4{
+  padding-top: 5%;
+  padding-left: 5%;
+ }
+
+ .graph{
+    color: white;
+    background-image: url(img/graph.jpg);
+    width: 200px;
+    height: 150px;
+    margin-bottom: 10px;
+    background-size: cover;
+ }
