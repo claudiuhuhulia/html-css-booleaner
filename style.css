@@ -5,7 +5,8 @@
 .back{
         background-color: rgb(48, 96, 151);
         background-image: url(img/pattern.png);
-        padding-right: 60%;
+        height: 100px;
+
     }   
 .sub{
         color: gray;
@@ -60,4 +61,11 @@ table {
     height: 150px;
     margin-bottom: 10px;
     background-size: cover;
+ }
+
+ .logo{
+    width: 15%;
+    height: 15%;
+    margin-left: 22%;
+    padding-top: 20px;
  }
