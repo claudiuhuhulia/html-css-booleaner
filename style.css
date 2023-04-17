@@ -7,3 +7,10 @@
         background-image: url(img/pattern.png);
         padding-right: 60%;
     }   
+.sub{
+        color: gray;
+        margin-bottom: 10px;
+    }
+h1{
+        margin-bottom: 2px;
+    }
