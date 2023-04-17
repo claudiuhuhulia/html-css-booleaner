@@ -7,7 +7,10 @@
         background-image: url(img/pattern.png);
         height: 100px;
 
-    }   
+    }  
+.blue {
+    color: rgb(10, 167, 240);
+ } 
 .sub{
         color: gray;
         margin-bottom: 10px;
@@ -68,4 +71,11 @@ table {
     height: 15%;
     margin-left: 22%;
     padding-top: 20px;
+ }
+ .description{
+    font-size: 10px;
+ }
+
+ .backyellow{
+    background-color: yellow;
  }
