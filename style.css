@@ -1,3 +1,7 @@
+
+body{
+    margin: 0;
+}
 .container{
   margin-left: 22%;
   margin-right: 22%;
@@ -6,7 +10,6 @@
         background-color: rgb(48, 96, 151);
         background-image: url(img/pattern.png);
         height: 100px;
-
     }  
 .blue {
     color: rgb(10, 167, 240);
