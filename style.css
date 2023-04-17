@@ -7,7 +7,7 @@ body{
   margin-right: 22%;
     }
 .back{
-        background-color: rgb(48, 96, 151);
+        background-color:  hsl(212.2deg 100% 65.29%);
         background-image: url(img/pattern.png);
         height: 100px;
     }  
@@ -31,7 +31,7 @@ table td{
 }
 
 .rowhead{
-    background-color: rgb(79, 119, 228);
+    background-color: hsl(198.27deg 79.12% 51.18%);
     color: white;
 
 }
@@ -40,7 +40,7 @@ table {
   }
 
 .rowblue{
-    background-color: rgb(79, 173, 228);
+    background-color: hsl(192deg 71.43% 82.16%);
   }
  h3{
     color: rgb(117, 116, 116, 0.73);
