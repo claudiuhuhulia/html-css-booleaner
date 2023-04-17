@@ -1,5 +1,6 @@
 .container{
-  margin: 20%;
+  margin-left: 22%;
+  margin-right: 22%;
     }
 .back{
         background-color: rgb(48, 96, 151);
@@ -17,4 +18,21 @@ h1{
 .container ul{
  padding-left: 2%;
 }
+
+table td{
+    width: 15%;
+}
+
+.rowhead{
+    background-color: rgb(79, 119, 228);
+    color: white;
+
+}
+table {
+    border-collapse: collapse;
+  }
+
+.rowblue{
+    background-color: rgb(79, 173, 228);
+  }
 
